@@ -1,0 +1,21 @@
+id_product,nama_produk,kategori,harga
+1,Sabun Mandi,Kebutuhan Rumah Tangga,-8000.0
+2,Shampoo,Kebutuhan Rumah Tangga,8300.0
+3,Pasta Gigi,Kebutuhan Rumah Tangga,11900.0
+4,Deterjen Bubuk,Kebutuhan Rumah Tangga,11400.0
+5,Pembersih Lantai,Kebutuhan Rumah Tangga,4700.0
+6,Minyak Goreng 1L,Makanan,20300.0
+7,Beras 5Kg,Makanan,75000.0
+8,Mie Instan,Makanan,3100.0
+9,Kecap Manis,Makanan,21400.0
+10,Saus Sambal,Makanan,9500.0
+11,Teh Celup,Minuman,
+12,Kopi Instan,Minuman,7500.0
+13,Susu Bubuk,Minuman,2400.0
+14,Air Mineral 600ml,Minuman,3200.0
+15,Susu UHT,Minuman,
+16,Sabun Cuci Piring,Kebutuhan Rumah Tangga,9800.0
+17,Pembersih Toilet,Kebutuhan Rumah Tangga,13600.0
+18,Sikat Gigi,Kebutuhan Rumah Tangga,-4500.0
+19,Gula Pasir 1Kg,Makanan,25400.0
+20,Sereal Breakfast,Makanan,4100.0
