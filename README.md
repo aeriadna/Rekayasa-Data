@@ -1,2 +1,10 @@
 # Rekayasa-Data
-Kumpulan tugas semasa kuliah yang berkaitan dengan merekayasa data
+Kumpulan tugas semasa kuliah yang berkaitan dengan merekayasa data. Total terdapat 4 tugas dengan masing-masing tugas memiliki permasalahannya masing-masing, program yang digunakan untuk menyelesaikan tugas ini adalah MySQL dan Talend. Meskipun keempat tugas memiliki masalah yang berbeda-beda, namun esensinya sama, yaitu menerapkan sistem ETL dalam mengolah data. 
+
+Berikut ini adalah penjelasan singkat mengenai masing-masing tugas:
+  1. Data yang digunakan adalah data Pokemon. Aplikasi yang digunakan hanyalah MySQL dan dalam tugas ini, fokus utamanya lebih kepada pembiasan diri dengan istilah seperti primary key, tipe data, dll, serta membiasakan diri dengan berbagai macam bahasa SQL.
+  2. Pada tugas kedua, data yang digunakan berupa 4 file excel yang berbeda. Fokus utama dari tugas ini adalah penggambaran relasi antar keempat database tersebut. Lebih lanjut, MySQL digunakan untuk melihat beberapa analisis sederhana terkait data.
+  3. Berbeda dengan 2 tugas sebelumnya yang menggunakan aplikasi MySQL, pada tugas ketiga ini aplikasi yang digunakan adalah Talend. Fokus dalam tugas ini adalah mentransformasi data yang kurang layak untuk digunakan. Data mentah yang diberikan berupa data terkait kelulusan seorang murid dan dalam data tersebut terdapat informasi seperti nama murid, kota asal, nilai/skor lulus, dll. Terdapat banyak sel dalam suatu kolom yang tidak memiliki nilai ataupun berisi bilangan negatif. Dengan demikian, data perlu ditransformasi agar layak untuk digunakan.
+  4. Di tugas terakhir, kombinasi antara Talend dan MySQL disatukan. Data yang digunakan berupa 4 data excel dalam format CSV dan keempat data tersebut memiliki kekurangannya sehingga tidak bisa langsung digunakan untuk proses analisis sehingga butuh ditransformasi. Alur pengerjaan tugas keempat berupa, data diimpor ke dalam MySQL, lalu MySQL dihubungkan dengan Talend agar Talend bisa mengakses data yang sudah diimpor. Transformasi data dilakukan di dalam Talend dan setelah ditransformasi hasilnya diekspor menjadi sebuah database baru dalam format CSV.
+
+Hasil dari keempat tugas yang sudah dikerjakan, tersusun rapi dengan penjelasan lengkapnya dalam file PDF.
